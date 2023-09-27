@@ -1,5 +1,7 @@
 ### Hi there 👋
+Perkenalkan nama saya **Junathan Richie**.<br>
 
+Saya seorang **Mahasiswa Sarjana Teknik Informatika**
 <!--
 **JunathanRichie/JunathanRichie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
