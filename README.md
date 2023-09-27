@@ -1,7 +1,13 @@
 ### Hi there 👋
 Perkenalkan nama saya **Junathan Richie**.<br>
 
-Saya seorang **Mahasiswa Sarjana Teknik Informatika**
+Saya seorang **Mahasiswa Sarjana Teknik Informatika** <br>
+<p align="left">
+<a href="https://github.com/JunathanRichie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JunathanRichie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunathanRichie&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **JunathanRichie/JunathanRichie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
